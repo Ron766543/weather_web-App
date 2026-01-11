@@ -37,11 +37,30 @@ Instantly fetch the **temperature** and **weather description** of any city by s
 ---
 
 ## 📸 Preview
-mobile_Preview
-<img width="382" height="790" alt="Image" src="https://github.com/user-attachments/assets/5e73e5ec-ec26-43e1-b006-709d17503c09" />
 
-tablet_Preview
-<img width="506" height="810" alt="Image" src="https://github.com/user-attachments/assets/b1448599-7cae-4a9a-8f44-e96ddd794070" />
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
 
-laptop_Preview
-<img width="669" height="805" alt="Image" src="https://github.com/user-attachments/assets/7682ec7b-a4e9-4024-be64-fc280ccc6e42" />
+  <div>
+    <strong>Mobile</strong><br>
+    <a href="https://github.com/user-attachments/assets/5e73e5ec-ec26-43e1-b006-709d17503c09">
+      <img src="https://github.com/user-attachments/assets/5e73e5ec-ec26-43e1-b006-709d17503c09" width="150">
+    </a>
+  </div>
+
+  <div>
+    <strong>Tablet</strong><br>
+    <a href="https://github.com/user-attachments/assets/b1448599-7cae-4a9a-8f44-e96ddd794070">
+      <img src="https://github.com/user-attachments/assets/b1448599-7cae-4a9a-8f44-e96ddd794070" width="200">
+    </a>
+  </div>
+
+  <div>
+    <strong>Laptop</strong><br>
+    <a href="https://github.com/user-attachments/assets/7682ec7b-a4e9-4024-be64-fc280ccc6e42">
+      <img src="https://github.com/user-attachments/assets/7682ec7b-a4e9-4024-be64-fc280ccc6e42" width="250">
+    </a>
+  </div>
+
+</div>
+
+
