@@ -35,32 +35,30 @@ Instantly fetch the **temperature** and **weather description** of any city by s
 - Building a responsive web interface  
 
 ---
+## 📸 Preview (Album Style)
 
-## 📸 Preview
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/5e73e5ec-ec26-43e1-b006-709d17503c09">
+        <img src="https://github.com/user-attachments/assets/5e73e5ec-ec26-43e1-b006-709d17503c09" width="150" alt="Mobile Preview">
+      </a>
+      <br><strong>Mobile</strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/b1448599-7cae-4a9a-8f44-e96ddd794070">
+        <img src="https://github.com/user-attachments/assets/b1448599-7cae-4a9a-8f44-e96ddd794070" width="200" alt="Tablet Preview">
+      </a>
+      <br><strong>Tablet</strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/7682ec7b-a4e9-4024-be64-fc280ccc6e42">
+        <img src="https://github.com/user-attachments/assets/7682ec7b-a4e9-4024-be64-fc280ccc6e42" width="250" alt="Laptop Preview">
+      </a>
+      <br><strong>Laptop</strong>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
-
-  <div>
-    <strong>Mobile</strong><br>
-    <a href="https://github.com/user-attachments/assets/5e73e5ec-ec26-43e1-b006-709d17503c09">
-      <img src="https://github.com/user-attachments/assets/5e73e5ec-ec26-43e1-b006-709d17503c09" width="150">
-    </a>
-  </div>
-
-  <div>
-    <strong>Tablet</strong><br>
-    <a href="https://github.com/user-attachments/assets/b1448599-7cae-4a9a-8f44-e96ddd794070">
-      <img src="https://github.com/user-attachments/assets/b1448599-7cae-4a9a-8f44-e96ddd794070" width="200">
-    </a>
-  </div>
-
-  <div>
-    <strong>Laptop</strong><br>
-    <a href="https://github.com/user-attachments/assets/7682ec7b-a4e9-4024-be64-fc280ccc6e42">
-      <img src="https://github.com/user-attachments/assets/7682ec7b-a4e9-4024-be64-fc280ccc6e42" width="250">
-    </a>
-  </div>
-
-</div>
 
 
