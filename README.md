@@ -35,7 +35,7 @@ Instantly fetch the **temperature** and **weather description** of any city by s
 - Building a responsive web interface  
 
 ---
-## 📸 Preview (Album Style)
+## 📸 Preview 
 
 <table align="center">
   <tr>
